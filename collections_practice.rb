@@ -22,12 +22,12 @@ end
 
 def reverse_array(array)
   array.reverse
-end 
+end
 
 def kesha_maker(array)
 
 end
 
 def find_a(array)
-  array.find_all { |i| i == "a"}
+  array.find_all.start_with? "a"
 end
