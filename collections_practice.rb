@@ -22,8 +22,4 @@ end
 
 def reverse_array(array)
   array.sort.reverse
-  end
-  end
-  
-  
 end
