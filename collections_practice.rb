@@ -39,3 +39,4 @@ end
 def add_s(array)
   array.each { |word| word << "s" word.drop[1]}
 end
+end
